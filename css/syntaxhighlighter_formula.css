@@ -1,0 +1,13 @@
+.formula .lsString {
+  color: magenta !important;
+}
+
+.formula .lsKeyword {
+  color: blue !important;
+  font-weight: bold !important;
+}
+.formula .lsMethod {
+  color: red !important;
+  font-weight: bold !important;
+  font-style: italic !important;
+}
